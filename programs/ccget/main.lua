@@ -6,7 +6,7 @@ A simple computercraft package manager!
 ## Installing ccget
 
 ```bash
-wget https://github.com/ajh123/Programs-CC/raw/main/programs/ccget/main.lua ccget.lua
+wget https://github.com/samuelh2005/Programs-CC/raw/main/programs/ccget/main.lua ccget.lua
 ```
 
 ## Installing a package
@@ -25,12 +25,12 @@ ccget seach <search entry>
 ```
 
 ## Adding your program
-See [https://ajh123.github.io/Programs-CC/guide/ccget-adding-package.html](https://ajh123.github.io/Programs-CC/guide/ccget-adding-package.html) for more details.
+See [https://samuelh2005.github.io/Programs-CC/guide/ccget-adding-package.html](https://samuelh2005.github.io/Programs-CC/guide/ccget-adding-package.html) for more details.
 
 @module[kind=program] ccget
 ]]
 
-local centralRepoUrl = "https://raw.githubusercontent.com/ajh123/Programs-CC/main/"
+local centralRepoUrl = "https://raw.githubusercontent.com/samuelh2005/Programs-CC/main/"
 local packagesListFile = "ccrepo.json"
 local packagesDir = "/ccget/packages/"
 local manifestFileName = "manifest.json"

@@ -5,9 +5,9 @@
 ## Installation
 
 To install `lcinit`, follow these steps in your ComputerCraft or CC: Tweaked environment:
-1. `wget https://github.com/ajh123/Programs-CC/raw/refs/heads/main/programs/lcinit/init.lua` to your computer or turtle.
+1. `wget https://github.com/samuelh2005/Programs-CC/raw/refs/heads/main/programs/lcinit/init.lua` to your computer or turtle.
 2. Edit your `startup.lua` file to run `lcinit` on boot. Just add the line `shell.run("init.lua")` to the bottom of your `startup.lua`.
-3. It is recommended to install the shell service as not doing so will prevent you from using the shell while `lcinit` is running. To do this, run `wget https://github.com/ajh123/Programs-CC/raw/refs/heads/main/programs/lcinit/services/shell.lua etc/init/services/shell.lua` 
+3. It is recommended to install the shell service as not doing so will prevent you from using the shell while `lcinit` is running. To do this, run `wget https://github.com/samuelh2005/Programs-CC/raw/refs/heads/main/programs/lcinit/services/shell.lua etc/init/services/shell.lua` 
 4. Restart your computer or turtle to see `lcinit` in action.
 
 ## Configuration

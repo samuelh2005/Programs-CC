@@ -10,17 +10,17 @@ end
 
 name = stockmanager
 	type = raw
-		url = https://raw.githubusercontent.com/ajh123/Programs-CC/main/programs/stockmanager/stockmanager.lua
+		url = https://raw.githubusercontent.com/samuelh2005/Programs-CC/main/programs/stockmanager/stockmanager.lua
 		filename = stockmanager.lua
 	category = utility storage create createmod
-    dependencies = ajh123/basalt2
+    dependencies = samuelh2005/basalt2
 	version = 0.2.0
 	size = 9303
 end
 
 name = stockserver
 	type = raw
-		url = https://raw.githubusercontent.com/ajh123/Programs-CC/main/programs/stockmanager/stockserver.lua
+		url = https://raw.githubusercontent.com/samuelh2005/Programs-CC/main/programs/stockmanager/stockserver.lua
 		filename = stockserver.lua
 	category = utility storage create createmod
     dependencies = none
@@ -30,7 +30,7 @@ end
 
 name = stocktest
 	type = raw
-		url = https://raw.githubusercontent.com/ajh123/Programs-CC/main/programs/stockmanager/stocktest.lua
+		url = https://raw.githubusercontent.com/samuelh2005/Programs-CC/main/programs/stockmanager/stocktest.lua
 		filename = stocktest.lua
 	category = utility storage create createmod
     dependencies = none

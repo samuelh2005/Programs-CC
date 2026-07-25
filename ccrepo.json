@@ -1,6 +1,6 @@
 {
     "name": "Global repository for CCGET",
     "packages": {
-        "ajh123/ccget": "https://raw.githubusercontent.com/ajh123/Programs-CC/main/programs/ccget/ccpackage.json"
+        "samuelh2005/ccget": "https://raw.githubusercontent.com/samuelh2005/Programs-CC/main/programs/ccget/ccpackage.json"
     }
 }

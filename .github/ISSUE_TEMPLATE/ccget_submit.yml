@@ -20,6 +20,6 @@ body:
       label: Your `ccpackage.json` url
       description: Provide a raw URL to your `ccpackage.json` file.
       placeholder: >-
-        https://github.com/ajh123/Programs-CC/raw/main/programs/ccget/ccpackage.json
+        https://github.com/samuelh2005/Programs-CC/raw/main/programs/ccget/ccpackage.json
     validations:
       required: true

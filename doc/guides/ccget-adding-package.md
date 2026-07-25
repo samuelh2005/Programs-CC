@@ -79,7 +79,7 @@ The author is yourself! For example:
 ```json
 {
     ...
-    "author": "ajh123"
+    "author": "samuelh2005"
     ...
 }
 ```
@@ -88,7 +88,7 @@ But please **no spaces**!
 
 ### License
 
-You should add a license so other people know what they can do with your code! Without one they may not be allowed to download the program. Without a license I (ajh123) will not know if your program can be distributed on CCGET. See <https://en.wikipedia.org/wiki/Software_license> for more details.
+You should add a license so other people know what they can do with your code! Without one they may not be allowed to download the program. Without a license I (samuelh2005) will not know if your program can be distributed on CCGET. See <https://en.wikipedia.org/wiki/Software_license> for more details.
 
 Example:
 
@@ -96,10 +96,10 @@ Example:
 {
     ...
     "license": {
-        "spdx_id": "EPL-2.0",
+        "spdx_id": "LGPL-3.0",
         "name": "Eclipse Public License - v 2.0",
-        "url": "https://github.com/ajh123/Programs-CC/blob/main/LICENSE",
-        "raw_url": "https://github.com/ajh123/Programs-CC/raw/main/LICENSE"
+        "url": "https://github.com/samuelh2005/Programs-CC/blob/main/LICENSE",
+        "raw_url": "https://github.com/samuelh2005/Programs-CC/raw/main/LICENSE"
     },
     ...
 }
@@ -117,7 +117,7 @@ File sources contain a URL to the raw contents of a file in your program, for ex
 {
     ...
     "files": {
-        "main.lua": "https://github.com/ajh123/Programs-CC/raw/main/programs/ccget/main.lua",
+        "main.lua": "https://github.com/samuelh2005/Programs-CC/raw/main/programs/ccget/main.lua",
         "dir/two.lua": "https://example.com/main.lua",
         "prog/ccbrowser.lua": "https://pastebin.com/raw/964NZUAU"
     }
@@ -127,7 +127,7 @@ File sources contain a URL to the raw contents of a file in your program, for ex
 
 As you may see, each file inside your code must be added. For each file you must provide the destination and the url for where it comes from. You may use any services which provide raw file hosting,
 
-For example, a Pastebin url: `https://pastebin.com/raw/964NZUAU`, or a GitHub url: `https://github.com/ajh123/Programs-CC/raw/main/programs/ccget/main.lua`.
+For example, a Pastebin url: `https://pastebin.com/raw/964NZUAU`, or a GitHub url: `https://github.com/samuelh2005/Programs-CC/raw/main/programs/ccget/main.lua`.
 
 > [!NOTE]
 > I understand that adding files manually is time consuming and cumbersome. Currently, this is the way it has to be done.
@@ -136,6 +136,6 @@ For example, a Pastebin url: `https://pastebin.com/raw/964NZUAU`, or a GitHub ur
 
 ## Step 2 - Submission
 
-To submit your program you may create a [request](https://github.com/ajh123/Programs-CC/issues/new?assignees=&labels=ccget&projects=&template=ccget_submit.yml&title=%5BCCGET+-+Submission%5D%3A+) on my GitHub. Please complete the sections in the form.
+To submit your program you may create a [request](https://github.com/samuelh2005/Programs-CC/issues/new?assignees=&labels=ccget&projects=&template=ccget_submit.yml&title=%5BCCGET+-+Submission%5D%3A+) on my GitHub. Please complete the sections in the form.
 
 Then you must wait for my approval. Good luck!

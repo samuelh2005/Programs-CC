@@ -2,14 +2,14 @@
     "name": "ccget",
     "description": "A package manager for computer craft!",
     "version": "0.1.0",
-    "author": "ajh123",
+    "author": "samuelh2005",
     "license": {
-        "spdx_id": "EPL-2.0",
+        "spdx_id": "LGPL-3.0",
         "name": "Eclipse Public License - v 2.0",
-        "url": "https://github.com/ajh123/Programs-CC/blob/main/LICENSE",
-        "raw_url": "https://github.com/ajh123/Programs-CC/raw/main/LICENSE"
+        "url": "https://github.com/samuelh2005/Programs-CC/blob/main/LICENSE",
+        "raw_url": "https://github.com/samuelh2005/Programs-CC/raw/main/LICENSE"
     },
     "files": {
-        "main.lua": "https://github.com/ajh123/Programs-CC/raw/main/programs/ccget/main.lua"
+        "main.lua": "https://github.com/samuelh2005/Programs-CC/raw/main/programs/ccget/main.lua"
     }
 }
