@@ -2,6 +2,12 @@
 
 `lcinit` is a daemon program written in Lua for ComputerCraft / CC: Tweaked that initialises and manages startup scripts on computers and turtles. It provides a flexible and configurable way to run scripts automatically when the system boots up. Essentially, it acts like systemd or init.d for ComputerCraft.
 
+## Deprecated
+
+> **`lcinit` is now deprecated and will no longer receive updates. It is recommended to use `systemlc` instead, which provides a more robust and feature-rich initialization system for ComputerCraft whilst physically being smaller.**
+>
+> **You can find `systemlc` at [../systemlc/](../systemlc/)**
+
 ## Installation
 
 To install `lcinit`, follow these steps in your ComputerCraft or CC: Tweaked environment:
